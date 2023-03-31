@@ -1,7 +1,7 @@
 
 Free-recources to learn Pentesting
 
-Note :This page will be Frequently Updated
+Note: This Repo will be Frequently Updated
 
 
 
