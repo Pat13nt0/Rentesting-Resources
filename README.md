@@ -272,12 +272,3 @@ malware-development : https://0xpat.github.io/Malware_development_part_1/
 Cheap Servers Vps : https://www.vultr.com/ ```
 
 
-Advice
-
-Buy Premium Membership Of Tryhackme Complete There Path’s
-Play Most of the Medium & hard level Ctf’s
-Move to Hackthebox
-Try to complete Tjnull’s List
-
-The journey to Opsec Tjnull
-https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
