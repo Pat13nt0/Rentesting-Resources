@@ -5,7 +5,7 @@ Note :This page will be Frequently Updated
 
 
 
-
+```
 linux
 
 https://linuxjourney.com/
@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=rrB13utjYV4
 https://www.youtube.com/watch?v=gd7BXuUQ91w
 https://www.youtube.com/watch?v=ROjZy1WbCIA
 https://www.youtube.com/watch?v=lZAoFs75_cs&t=15s
+
+
 Scripting
 
 Bash
@@ -35,7 +37,8 @@ https://www.khanacademy.org/computing/computer-programming/programming
 https://www.learnshell.org/
 https://www.freecodecamp.org/news/search/?query=bash
 
-Powershell
+
+
 Cryptography & Stegnography
 
 https://www.youtube.com/watch?v=6_Cxj5WKpIw
@@ -47,6 +50,8 @@ https://cyberchef.org/
 https://hashes.com/en/tools/hash_identifier
 https://www.dcode.fr/cipher-identifier
 https://crackstation.net/
+
+
 Networking
 
 https://tryhackme.com/room/introtonetworking
@@ -61,11 +66,15 @@ https://www.youtube.com/watch?v=L6bDA5FK6gs
 https://www.youtube.com/watch?v=5WfiTHiU4x8
 https://www.youtube.com/watch?v=s_Ntt6eTn94
 https://www.youtube.com/watch?v=86cQJ0MMses
+
+
 Docker
 
 https://www.youtube.com/watch?v=eGz9DS-aIeY
 https://www.youtube.com/watch?v=Gjnup-PuquQ
 https://www.youtube.com/watch?v=pTFZFxd4hOI
+
+
 General
 
 https://www.youtube.com/watch?v=vvKbMueRzrI
@@ -76,6 +85,8 @@ https://tryhackme.com/room/securityawarenessintro
 https://www.youtube.com/watch?v=7U-RbOKanYs
 https://www.youtube.com/watch?v=lVcbq_a5N9I
 https://www.youtube.com/watch?v=8ZtInClXe1Q
+
+
 Newsletters
 
 API security news.
@@ -101,6 +112,8 @@ CSO Online: Security and risk management.
 Naked Security: Protect yourself from attacks.
 AdvisoryWeek: Advisory roundups by vendors.
 tl;dr sec Newsletter: Tools, blog posts & research.
+
+
 Search-Engines
 
 shodan.io
@@ -126,25 +139,36 @@ https://www.youtube.com/watch?v=hrVa_dhD-iA
 https://the-dark-web.com/google-dorking-commands-101/
 https://www.youtube.com/watch?v=cEBkvm0-rg0&t=93s
 https://www.youtube.com/watch?v=lESeJ3EViCo
+
+
 EXPLOITS
 
 https://www.exploit-db.com/
 https://exploit.education/phoenix/
 https://www.rapid7.com/
 https://github.com/
+
+
+
 WEBATTACKS
 
 ZAP — https://www.owasp.org/index.php/OWASP...
 DIRB — https://tools.kali.org/web-applicatio...
 NIKTO — https://hackertarget.com/nikto-websit...
 https://portswigger.net/web-security/learning-path
+
+
 STABLE SHELLS (AKA TTY)
 
 https://highon.coffee/blog/penetratio...
+
+
 Privilage-Escalation
 
 https://github.com/pentestmonkey/wind...
 http://www.securitysift.com/download/...
+
+
 Capture the Flags
 
 https://pwnable.kr/play.php
@@ -158,10 +182,16 @@ https://overthewire.org/wargames/
 https://www.picoctf.org/
 https://pentesterlab.com/
 https://evilzone.org/
-https://ctftime.org/
+https://ctftime.org/```
+
+
+
 Api Hacking
 
 https://university.apisec.ai/products/apisec-certified-expert/categories/2150251348/posts/2157505637
+
+
+
 Blogs
 
 https://www.seytonic.com/
@@ -169,9 +199,11 @@ https://null-byte.wonderhowto.com/
 https://www.null-byte.org/blog/
 https://nmap.org/book/firewall-subversion.html ( by passing firewall with Nmap)
 https://firewallsdontstopdragons.com/
+
 Forums
 
 https://pirates-forum.org/Forum-Hardware-Networking
+
 Resources
 
 https://www.offensive-security.com/metasploit-unleashed/
@@ -182,6 +214,8 @@ Try hackme
 David bombal
 Nullbyte
 https://linuxconfig.org/bash-scripting-tutorial
+
+
 Roadmaps
 
 1. Basics — https://wiki.bi0s.in/basics/intro/
@@ -190,6 +224,8 @@ Roadmaps
 4. Forensics — https://wiki.bi0s.in/forensics/roadmap/
 5. Crypto — https://wiki.bi0s.in/crypto/roadmap/
 7. Web — https://wiki.bi0s.in/web/roadmap/
+
+
 Handy tools & Github-repos
 
 https://www.androidauthority.com/how-to-create-an-sms-app-721438/
@@ -203,6 +239,8 @@ https://addons.mozilla.org/en-US/firefox/addon/hacktools/
 https://github.com/cytopia/fuzza
 https://github.com/kleosdc/dns-exfil-infil
 https://github.com/the-c0d3r/buffer-overflow
+
+
 Active-Directory
 
 https://www.youtube.com/watch?v=cTe5GsyhKUk
@@ -210,11 +248,15 @@ https://www.youtube.com/watch?v=Q4I2lKHboDw
 https://adsecurity.org/?p=2293
 https://posts.specterops.io/kerberoasting-revisited-d434351bd4d1 https://www.redsiege.com/wp-content/uploads/2020/04/20200430-
 https://www.crowdstrike.com/cybersecurity-101/golden-ticket-attack/
+
+
 Binary Exploitation
 
 Linux : https://gtfobins.github.io
 Window : https://lolbas-project.github.io/#
 Active-directory : https://wadcoms.github.io
+
+
 ETC . . .
 
 Ufw ( linux uncomplicated firewall) : https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
@@ -227,7 +269,9 @@ Favicon database Owasp : https://wiki.owasp.org/index.php/OWASP_favicon_database
 List of file Signatures: https://en.wikipedia.org/wiki/List_of_file_signatures
 
 malware-development : https://0xpat.github.io/Malware_development_part_1/
-Cheap Servers Vps : https://www.vultr.com/
+Cheap Servers Vps : https://www.vultr.com/ ```
+
+
 Advice
 
 Buy Premium Membership Of Tryhackme Complete There Path’s
