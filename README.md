@@ -87,6 +87,29 @@ https://www.youtube.com/watch?v=lVcbq_a5N9I
 https://www.youtube.com/watch?v=8ZtInClXe1Q
 
 
+
+Youtube Channels
+
+Computer phile :https://www.youtube.com/@Computerphile ( One of my fav)
+Cyber Mentor : https://www.youtube.com/@TCMSecurityAcademy
+Network Chuck: https://www.youtube.com/@NetworkChuck
+Ippsec       : https://www.youtube.com/@ippsec
+John hammond : https://www.youtube.com/@_JohnHammond
+Nullbyte     : https://www.youtube.com/@NullByteWHT
+David bombal : https://www.youtube.com/@davidbombal
+Oxdf         : https://www.youtube.com/@0xdf
+Insider phd  : https://www.youtube.com/@InsiderPhD
+pwn Function : https://www.youtube.com/@PwnFunction
+LiveOverflow : https://www.youtube.com/@LiveOverflow
+Malfind Labs : https://www.youtube.com/@MalfindLabs
+Conda        : https://www.youtube.com/@c0nd4
+Hacker/splain: https://www.youtube.com/@Hacksplained
+Pwn Collage  :https://www.youtube.com/@pwncollege
+Ymir Vigfusson:https://www.youtube.com/@YmirVigfussonPresents
+Atck/detct/dfnd : https://www.youtube.com/@rot169
+CwInfosec    :https://www.youtube.com/@cwinfosec
+
+
 Newsletters
 
 API security news.
@@ -132,6 +155,9 @@ app.netlas.io
 searchcode.com
 urlscan.io
 publicwww.com
+
+
+
 Google-Dorking
 
 https://www.youtube.com/watch?v=u_gOnwWEXiA
@@ -139,6 +165,7 @@ https://www.youtube.com/watch?v=hrVa_dhD-iA
 https://the-dark-web.com/google-dorking-commands-101/
 https://www.youtube.com/watch?v=cEBkvm0-rg0&t=93s
 https://www.youtube.com/watch?v=lESeJ3EViCo
+
 
 
 EXPLOITS
@@ -150,12 +177,14 @@ https://github.com/
 
 
 
+
 WEBATTACKS
 
 ZAP — https://www.owasp.org/index.php/OWASP...
 DIRB — https://tools.kali.org/web-applicatio...
 NIKTO — https://hackertarget.com/nikto-websit...
 https://portswigger.net/web-security/learning-path
+
 
 
 STABLE SHELLS (AKA TTY)
@@ -167,6 +196,8 @@ Privilage-Escalation
 
 https://github.com/pentestmonkey/wind...
 http://www.securitysift.com/download/...
+
+
 
 
 Capture the Flags
@@ -186,9 +217,12 @@ https://ctftime.org/```
 
 
 
+
 Api Hacking
 
 https://university.apisec.ai/products/apisec-certified-expert/categories/2150251348/posts/2157505637
+
+
 
 
 
@@ -200,9 +234,14 @@ https://www.null-byte.org/blog/
 https://nmap.org/book/firewall-subversion.html ( by passing firewall with Nmap)
 https://firewallsdontstopdragons.com/
 
+
+
 Forums
 
 https://pirates-forum.org/Forum-Hardware-Networking
+
+
+
 
 Resources
 
@@ -216,6 +255,9 @@ Nullbyte
 https://linuxconfig.org/bash-scripting-tutorial
 
 
+
+
+
 Roadmaps
 
 1. Basics — https://wiki.bi0s.in/basics/intro/
@@ -226,11 +268,16 @@ Roadmaps
 7. Web — https://wiki.bi0s.in/web/roadmap/
 
 
+
+
+
 Handy tools & Github-repos
 
 https://www.androidauthority.com/how-to-create-an-sms-app-721438/
 https://demo.grammarly.com/
 https://www.toolsley.com/
+https://tio.run
+https://www.decompiler.com)
 https://github.com/intrigueio/intrigue-core
 https://github.com/koalaman/shellcheck#installing
 https://github.com/LasCC/Hack-Tools
@@ -239,6 +286,7 @@ https://addons.mozilla.org/en-US/firefox/addon/hacktools/
 https://github.com/cytopia/fuzza
 https://github.com/kleosdc/dns-exfil-infil
 https://github.com/the-c0d3r/buffer-overflow
+
 
 
 Active-Directory
@@ -250,6 +298,8 @@ https://posts.specterops.io/kerberoasting-revisited-d434351bd4d1 https://www.red
 https://www.crowdstrike.com/cybersecurity-101/golden-ticket-attack/
 
 
+
+
 Binary Exploitation
 
 Linux : https://gtfobins.github.io
@@ -259,9 +309,17 @@ Active-directory : https://wadcoms.github.io
 
 ETC . . .
 
+Cheap Servers Vps : https://www.vultr.com/
+https://guyinatuxedo.github.io
+https://cugu.github.io/awesome-forensics
+https://github.com/CompassSecurity/security_resource
+https://www.begin.re
+https://exploit.education
+https://github.com/shellphish/how2heap
+
 Ufw ( linux uncomplicated firewall) : https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
 
-The only cheat sheet you need Unified access to the best community driven documentation repositories of the world https://cht.sh/
+The only cheat sheet you need Unified access to the best community driven documentation repositories of the world : https://cht.sh/
 
 Information about any port: https://www.speedguide.net/port.php?port=
 A nice site to Learn basic Consepts: https://www.hacksplaining.com/lessons
@@ -269,6 +327,7 @@ Favicon database Owasp : https://wiki.owasp.org/index.php/OWASP_favicon_database
 List of file Signatures: https://en.wikipedia.org/wiki/List_of_file_signatures
 
 malware-development : https://0xpat.github.io/Malware_development_part_1/
-Cheap Servers Vps : https://www.vultr.com/ ```
+
+
 
 
