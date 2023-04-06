@@ -26,6 +26,7 @@ https://www.youtube.com/watch?v=lZAoFs75_cs&t=15s
 
 
 Scripting
+https://cs50.harvard.edu/college/2022/spring/weeks/0/
 
 Bash
 https://www.youtube.com/watch?v=oxuRxtrO2Ag
@@ -239,23 +240,6 @@ https://firewallsdontstopdragons.com/
 Forums
 
 https://pirates-forum.org/Forum-Hardware-Networking
-
-
-
-
-Resources
-
-https://www.offensive-security.com/metasploit-unleashed/
-https://academy.tcm-sec.com/courses
-https://cs50.harvard.edu/college/2022/spring/weeks/0/
-https://portswigger.net/
-Try hackme
-David bombal
-Nullbyte
-https://linuxconfig.org/bash-scripting-tutorial
-
-
-
 
 
 Roadmaps
