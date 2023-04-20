@@ -51,6 +51,7 @@ https://cyberchef.org/
 https://hashes.com/en/tools/hash_identifier
 https://www.dcode.fr/cipher-identifier
 https://crackstation.net/
+https://cryptohack.org/
 
 
 Networking
