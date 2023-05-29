@@ -109,6 +109,10 @@ Pwn Collage  :https://www.youtube.com/@pwncollege
 Ymir Vigfusson:https://www.youtube.com/@YmirVigfussonPresents
 Atck/detct/dfnd : https://www.youtube.com/@rot169
 CwInfosec    :https://www.youtube.com/@cwinfosec
+areyou1or0 : https://www.youtube.com/@areyou1or0
+Day[0]  :  https://www.youtube.com/@dayzerosec
+Crow    : https://www.youtube.com/@crr0ww
+
 
 
 Newsletters
@@ -281,8 +285,12 @@ https://adsecurity.org/?p=2293
 https://posts.specterops.io/kerberoasting-revisited-d434351bd4d1 https://www.redsiege.com/wp-content/uploads/2020/04/20200430-
 https://www.crowdstrike.com/cybersecurity-101/golden-ticket-attack/
 https://www.alteredsecurity.com/
-
-
+https://tryhackme.com/room/adenumeration
+https://tryhackme.com/room/breachingad
+https://tryhackme.com/room/persistingad
+https://tryhackme.com/room/lateralmovementandpivoting
+https://tryhackme.com/room/exploitingad
+https://tryhackme.com/room/hololive
 
 Binary Exploitation
 
