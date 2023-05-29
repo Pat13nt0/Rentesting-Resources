@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=rrB13utjYV4
 https://www.youtube.com/watch?v=gd7BXuUQ91w
 https://www.youtube.com/watch?v=ROjZy1WbCIA
 https://www.youtube.com/watch?v=lZAoFs75_cs&t=15s
-
+https://github.com/diego-treitos/linux-smart-enumeration
 
 Scripting
 https://cs50.harvard.edu/college/2022/spring/weeks/0/
@@ -185,7 +185,7 @@ ZAP — https://www.owasp.org/index.php/OWASP...
 DIRB — https://tools.kali.org/web-applicatio...
 NIKTO — https://hackertarget.com/nikto-websit...
 https://portswigger.net/web-security/learning-path
-
+https://github.com/guelfoweb/knock
 
 
 STABLE SHELLS (AKA TTY)
@@ -197,7 +197,7 @@ Privilage-Escalation
 
 https://github.com/pentestmonkey/wind...
 http://www.securitysift.com/download/...
-
+https://exploit-notes.hdks.org/exploit/linux/privilege-escalation/ansible-playbook-privilege-escalation/
 
 
 
@@ -270,7 +270,7 @@ https://addons.mozilla.org/en-US/firefox/addon/hacktools/
 https://github.com/cytopia/fuzza
 https://github.com/kleosdc/dns-exfil-infil
 https://github.com/the-c0d3r/buffer-overflow
-
+https://github.com/m8sec/CrossLinked
 
 
 Active-Directory
@@ -280,7 +280,7 @@ https://www.youtube.com/watch?v=Q4I2lKHboDw
 https://adsecurity.org/?p=2293
 https://posts.specterops.io/kerberoasting-revisited-d434351bd4d1 https://www.redsiege.com/wp-content/uploads/2020/04/20200430-
 https://www.crowdstrike.com/cybersecurity-101/golden-ticket-attack/
-
+https://www.alteredsecurity.com/
 
 
 
