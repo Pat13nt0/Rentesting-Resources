@@ -299,6 +299,13 @@ Window : https://lolbas-project.github.io/#
 Active-directory : https://wadcoms.github.io
 
 
+AI's
+chatgpt.com
+dorkgpt.com (Generate Google Dorks with AI)
+
+
+
+
 ETC . . .
 
 Cheap Servers Vps : https://www.vultr.com/
