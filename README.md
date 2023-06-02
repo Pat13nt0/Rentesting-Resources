@@ -299,6 +299,44 @@ Window : https://lolbas-project.github.io/#
 Active-directory : https://wadcoms.github.io
 
 
+
+
+Exploit-development
+
+https://github.com/wtsxDev/Exploit-Development
+https://github.com/midnightslacker/exploit_training
+https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment
+https://github.com/gold1029/awesome-exploit-development
+https://github.com/FULLSHADE/WindowsExploitationResources/
+https://github.com/CyberSecurityUP/Awesome-Exploit-Development
+https://github.com/infodox/exploits
+https://github.com/karthik0x00/exploit-development
+https://github.com/mgeeky/Exploit-Development-Tools
+https://github.com/cranelab/exploit-development
+
+"PDF's for expliot development"
+https://www.exploit-db.com/papers
+
+Linux ( exploitdevelopment)
+https://www.exploit-db.com/docs/17008
+https://www.exploit-db.com/docs/17154
+https://www.exploit-db.com/docs/17131
+https://www.exploit-db.com/docs/17208
+https://www.exploit-db.com/docs/17286
+
+Windows ( exploit-development)
+https://www.exploit-db.com/docs/44085
+https://www.exploit-db.com/docs/44086
+https://www.exploit-db.com/docs/44087
+https://www.exploit-db.com/docs/44088
+https://www.exploit-db.com/docs/44089
+https://www.exploit-db.com/docs/44090
+
+
+
+
+
+
 AI's
 chatgpt.com
 dorkgpt.com (Generate Google Dorks with AI)
