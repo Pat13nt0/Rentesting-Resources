@@ -25,8 +25,16 @@ https://www.youtube.com/watch?v=ROjZy1WbCIA
 https://www.youtube.com/watch?v=lZAoFs75_cs&t=15s
 https://github.com/diego-treitos/linux-smart-enumeration
 
+
+
+
+
 Scripting
 https://cs50.harvard.edu/college/2022/spring/weeks/0/
+
+
+
+
 
 Bash
 https://www.youtube.com/watch?v=oxuRxtrO2Ag
@@ -37,6 +45,9 @@ https://learn-bash.org/
 https://www.khanacademy.org/computing/computer-programming/programming
 https://www.learnshell.org/
 https://www.freecodecamp.org/news/search/?query=bash
+
+
+
 
 
 
@@ -51,6 +62,10 @@ https://cyberchef.org/
 https://hashes.com/en/tools/hash_identifier
 https://www.dcode.fr/cipher-identifier
 https://crackstation.net/
+
+
+
+
 
 
 Networking
@@ -69,11 +84,21 @@ https://www.youtube.com/watch?v=s_Ntt6eTn94
 https://www.youtube.com/watch?v=86cQJ0MMses
 
 
+
+
+
+
+
 Docker
 
 https://www.youtube.com/watch?v=eGz9DS-aIeY
 https://www.youtube.com/watch?v=Gjnup-PuquQ
 https://www.youtube.com/watch?v=pTFZFxd4hOI
+
+
+
+
+
 
 
 General
@@ -86,6 +111,10 @@ https://tryhackme.com/room/securityawarenessintro
 https://www.youtube.com/watch?v=7U-RbOKanYs
 https://www.youtube.com/watch?v=lVcbq_a5N9I
 https://www.youtube.com/watch?v=8ZtInClXe1Q
+
+
+
+
 
 
 
@@ -112,6 +141,10 @@ CwInfosec    :https://www.youtube.com/@cwinfosec
 areyou1or0 : https://www.youtube.com/@areyou1or0
 Day[0]  :  https://www.youtube.com/@dayzerosec
 Crow    : https://www.youtube.com/@crr0ww
+
+
+
+
 
 
 
@@ -142,6 +175,10 @@ AdvisoryWeek: Advisory roundups by vendors.
 tl;dr sec Newsletter: Tools, blog posts & research.
 
 
+
+
+
+
 Search-Engines
 
 shodan.io
@@ -163,6 +200,10 @@ publicwww.com
 
 
 
+
+
+
+
 Google-Dorking
 
 https://www.youtube.com/watch?v=u_gOnwWEXiA
@@ -170,6 +211,9 @@ https://www.youtube.com/watch?v=hrVa_dhD-iA
 https://the-dark-web.com/google-dorking-commands-101/
 https://www.youtube.com/watch?v=cEBkvm0-rg0&t=93s
 https://www.youtube.com/watch?v=lESeJ3EViCo
+
+
+
 
 
 
@@ -183,6 +227,9 @@ https://github.com/
 
 
 
+
+
+
 WEBATTACKS
 
 ZAP — https://www.owasp.org/index.php/OWASP...
@@ -192,9 +239,18 @@ https://portswigger.net/web-security/learning-path
 https://github.com/guelfoweb/knock
 
 
+
+
+
+
 STABLE SHELLS (AKA TTY)
 
 https://highon.coffee/blog/penetratio...
+
+
+
+
+
 
 
 Privilage-Escalation
@@ -202,6 +258,10 @@ Privilage-Escalation
 https://github.com/pentestmonkey/wind...
 http://www.securitysift.com/download/...
 https://exploit-notes.hdks.org/exploit/linux/privilege-escalation/ansible-playbook-privilege-escalation/
+
+
+
+
 
 
 
@@ -223,9 +283,11 @@ https://ctftime.org/```
 
 
 
+
 Api Hacking
 
 https://university.apisec.ai/products/apisec-certified-expert/categories/2150251348/posts/2157505637
+
 
 
 
@@ -241,9 +303,17 @@ https://firewallsdontstopdragons.com/
 
 
 
+
+
+
 Forums
 
 https://pirates-forum.org/Forum-Hardware-Networking
+
+
+
+
+
 
 
 Roadmaps
@@ -254,6 +324,9 @@ Roadmaps
 4. Forensics — https://wiki.bi0s.in/forensics/roadmap/
 5. Crypto — https://wiki.bi0s.in/crypto/roadmap/
 7. Web — https://wiki.bi0s.in/web/roadmap/
+
+
+
 
 
 
@@ -277,6 +350,11 @@ https://github.com/the-c0d3r/buffer-overflow
 https://github.com/m8sec/CrossLinked
 
 
+
+
+
+
+
 Active-Directory
 
 https://www.youtube.com/watch?v=cTe5GsyhKUk
@@ -292,11 +370,20 @@ https://tryhackme.com/room/lateralmovementandpivoting
 https://tryhackme.com/room/exploitingad
 https://tryhackme.com/room/hololive
 
+
+
+
+
+
+
 Binary Exploitation
 
 Linux : https://gtfobins.github.io
 Window : https://lolbas-project.github.io/#
 Active-directory : https://wadcoms.github.io
+
+
+
 
 
 
