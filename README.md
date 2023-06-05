@@ -421,6 +421,10 @@ https://www.exploit-db.com/docs/44090
 
 
 
+malware-development 
+
+https://0xpat.github.io/Malware_development_part_1/
+
 
 
 
@@ -450,7 +454,7 @@ A nice site to Learn basic Consepts: https://www.hacksplaining.com/lessons
 Favicon database Owasp : https://wiki.owasp.org/index.php/OWASP_favicon_database
 List of file Signatures: https://en.wikipedia.org/wiki/List_of_file_signatures
 
-malware-development : https://0xpat.github.io/Malware_development_part_1/
+
 
 
 
